@@ -2,7 +2,7 @@
 
 A simple pluralization engine for .Net.
 
-> Some people, when confronted with a pluralization problem, think "I know, I'll use regular expressions." Now they have two problems.
+> Some people, when confronted with a pluralization problem, think "I know, I'll use regular expressions." Now they have two problems.  
 A poor paraphrasing of Jamie Zawinski
 
 ## How do I use it?
